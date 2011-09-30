@@ -1,0 +1,7 @@
+.rvmrc
+pkg
+ext/*.o
+ext/*.bundle
+ext/Makefile
+lib/*.bundle
+
